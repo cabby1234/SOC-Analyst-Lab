@@ -1,7 +1,7 @@
 # SOC Analyst Lab
 
 <h2>Description</h2>
-- <b>Kali Linux and Windows machine ran on VMware.</b>
+* <b>Kali Linux and Windows machine ran on VMware.</b>
 <br />
 <h2>Tools Used</h2>
 - <b>Kali Linux and Windows machine ran on VMware.</b>
