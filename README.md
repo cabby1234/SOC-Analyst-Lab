@@ -4,8 +4,7 @@
 
 <br />
 <h2>Tools Used</h2>
-- 
-- 
+- Tools
 
 <h2>Environments Used </h2>
 
