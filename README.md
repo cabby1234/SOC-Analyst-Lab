@@ -6,8 +6,14 @@
   <li>Attack Blocking: Implemented detection rules to block attack and protected the environment from malicious activities, then we tested the rule.</li>
 </ul>
 
-<h2>Environments Used</h2>
-
+<h2>Tools Used</h2>
+<ul>
+  <li>VMware Workstation</li>
+  <li>Windows VM (Victim)</li>
+  <li>Ubuntu VM (Attacker)</li>
+  <li>LimaCharlie (EDR)</li>
+  <li>Sliver (C2)</li>
+</ul>
 <h2>Project Walkthrough</h2>
 <ul>
   <li><a href="https://medium.com/@chrisberm/soc-analyst-home-lab-a535aa26fbd9">SOC Analyst Home Lab Walkthrough</a></li>
