@@ -1,16 +1,11 @@
 # SOC-Analyst-Lab
 
 <h2>Description</h2>
-- <b>Burp Suite</b> 
-- <b>Injection</b>
-- <b>Burp Suite</b> 
-- <b>Injection</b>
+
 <br />
 <h2>Tools Used</h2>
-- <b>Burp Suite</b> 
-- <b>Injection</b>
-- <b>Burp Suite</b> 
-- <b>Injection</b>
+- 
+- 
 
 <h2>Environments Used </h2>
 
