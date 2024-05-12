@@ -1,17 +1,16 @@
 # SOC-Analyst-Lab
 
 <h2>Description</h2>
-- <b>Virtualization Environment: Establish a small virtualization environment with two VMs; one Ubuntu (Attacker) and one Windows (Victim) machine.</b>
-- <b>Emulating Adversary Mindset: We put on our adversary hat and generated some activity through the configured C2 Server.</b>
-- <b>Viewing Logs: Analyzed the system telemetry and “noise” we made as the adversary.</b>
-- <b>Attack Blocking: Implemented detection rules to block attack and protected the environment from malicious activities, then we tested the rule.</b>
+- <b>Burp Suite</b> 
+- <b>Injection</b>
+- <b>Burp Suite</b> 
+- <b>Injection</b>
 <br />
 <h2>Tools Used</h2>
-- <b>VMware Workstation</b>
-- <b>Windows VM (Victim)</b>
-- <b>Ubuntu VM (Attacker)</b>
-- <b>LimaCharlie (EDR)</b>
-- <b>Sliver (C2)</b>
+- <b>Burp Suite</b> 
+- <b>Injection</b>
+- <b>Burp Suite</b> 
+- <b>Injection</b>
 
 <h2>Environments Used </h2>
 
